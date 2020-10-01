@@ -85,7 +85,7 @@ and global updates of markets.
 By default Trading UI connects to Ranger without using SSL, but you can change
 this behavior if your exchange supports https connections, open
 config/peatio.env file using your favorite editor in workbench's repository and
-edit following line:
+edit following line:-
 </p>
 
 <blockquote class="quotes">
@@ -113,7 +113,7 @@ Nginx.
 </p>
 
 <p>
-Add following `server` snippet into your `http` directive in your nginx.conf:
+Add following `server` snippet into your `http` directive in your nginx.conf:-
 </p>
 
 <blockquote class="quotes">
